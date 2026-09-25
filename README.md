@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Don Jaziel
 
-I'm an aspiring web developer with a focus on building dynamic and responsive web applications. Currently, I'm working with technologies like Vue.js, Tailwind CSS, and learning Laravel to enhance my backend development skills. I'm passionate about coding, always improving, and excited to share my progress through my projects. Check out my repositories to see what I've been working on!
+I'm a developer with a focus on building dynamic and responsive web applications. Currently, I'm working with technologies like Vue.js, Tailwind CSS, and learning Laravel to enhance my backend development skills. I'm passionate about coding, always improving, and excited to share my progress through my projects. Check out my repositories to see what I've been working on!
 
 <hr>
 
